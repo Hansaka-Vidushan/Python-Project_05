@@ -1,2 +1,8 @@
 # Python-Project_05
-This is my 05 python project
+# Explain Loops
+# InnoCodeLK
+# Hansaka Vidushan
+
+For loop & While Loop
+
+Day 12
